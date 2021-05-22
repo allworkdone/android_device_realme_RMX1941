@@ -149,3 +149,10 @@ ro.sys.usb.charging.only=yes
 
 # Navigation Bar
 qemu.hw.mainkeys=0
+
+#PixelPlusUI props
+ro.ppui.device_name=Realme C2
+ro.ppui.version=3.5
+ro.ppui.version_code=Jasper
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=allworkdone_sparXfusion
